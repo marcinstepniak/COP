@@ -2,7 +2,7 @@ title: Communities of practice
 description: 
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
